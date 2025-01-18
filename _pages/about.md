@@ -40,4 +40,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 Chinese Version
 ------
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/Hao-Dong-Li/hao-dong-li.github.io/blob/master/files/chinese-20250115.pdf'
