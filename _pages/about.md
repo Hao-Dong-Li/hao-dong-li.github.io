@@ -37,10 +37,5 @@ LLM + Security and Privacy
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
-Curriculum Vitae
-======
 
-[English Version](http://academicpages.github.io/files/paper1.pdf)
-
-[Chinese Version](https://hao-dong-li.github.io/files/chinese-20250115.pdf)
 
