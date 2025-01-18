@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : ""
-  name             : "Your Sidebar Name"
+  name             : "Haodong Li"
   bio              : "I am a Ph.D. candidate at BUPT."
   location         : "Beijing, China"
   employer         : "BUPT"
@@ -31,7 +31,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0009-0004-1649-7549"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
 
 
