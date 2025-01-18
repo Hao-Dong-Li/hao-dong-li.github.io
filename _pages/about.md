@@ -18,7 +18,7 @@ Uncertainty + Android Malware Detection
   __Haodong Li__, Guosheng Xu<sub>(&)</sub>, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   ICSE 2024.
 - __Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.__  <br>
-  __Haodong Li<sub>(\*)<sub>__, Cheng Xiao<sub>(\*)<sub>, Guohan Zhang<sub>(&)</sub>,, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>,. <br>
+  __Haodong Li<sub>(\*)</sub>__, Cheng Xiao<sub>(\*)</sub>, Guohan Zhang<sub>(&)</sub>,, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   FSE 2025
 - __Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection.__  <br>
   __Haodong Li__, Cheng Xiao<sub>(&)</sub>, Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
