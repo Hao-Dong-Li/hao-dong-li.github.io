@@ -26,6 +26,6 @@ Uncertainty + Android Malware Detection
 
 LLM + Security
 ------
-- __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__
-  __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang
+- __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__ <br>
+  __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   [link]([https://arxiv.org/abs/2401.00676])
