@@ -36,8 +36,8 @@ Curriculum Vitae
 
 English Version
 ------
-pdfurl: 'http://academicpages.github.io/files/paper1.pdf'
+[pdfurl](http://academicpages.github.io/files/paper1.pdf)
 
 Chinese Version
 ------
-pdfurl: 'https://hao-dong-li.github.io/files/chinese-20250115.pdf'
+[pdfurl](https://hao-dong-li.github.io/files/chinese-20250115.pdf)
