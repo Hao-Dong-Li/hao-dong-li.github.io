@@ -13,10 +13,13 @@ I am a Ph.D. candidate (Class of 2021) at the School of Cyberspace Security, Bei
 Education
 ======
 
+
 | Degree            | Institution                                              | Major               | Duration        |
 |-------------------|----------------------------------------------------------|---------------------|-----------------|
 | Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | 2015.9 - 2019.6     |
 | Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020.9 - 2025.6 (Expected) |
+
+
 
 Publications
 ======
@@ -38,10 +41,6 @@ LLM + Security and Privacy
 - __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__ <br>
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
-
-
-
-
 
 Curriculum Vitae
 ======
