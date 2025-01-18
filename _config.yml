@@ -21,7 +21,7 @@ repository               : "Hao-Dong-Li/hao-dong-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "haodong.png"
   name             : "Haodong Li"
   bio              : "I am a Ph.D. candidate at BUPT."
   location         : "Beijing, China"
