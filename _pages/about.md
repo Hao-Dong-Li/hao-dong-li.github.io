@@ -37,3 +37,13 @@ Curriculum Vitae
 [English Version](http://academicpages.github.io/files/paper1.pdf)
 
 [Chinese Version](https://hao-dong-li.github.io/files/chinese-20250115.pdf)
+
+
+
+
+
+| Degree            | Institution                                              | Major               | Duration        |
+|-------------------|----------------------------------------------------------|---------------------|-----------------|
+| Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | 2015 - 2019     |
+| Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020 - 2025 (Expected) |
+
