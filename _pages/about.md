@@ -36,8 +36,8 @@ Curriculum Vitae
 
 English Version
 ------
-[pdf](https://arxiv.org/abs/2401.00676)
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 Chinese Version
 ------
-[pdf](https://arxiv.org/abs/2401.00676)
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
