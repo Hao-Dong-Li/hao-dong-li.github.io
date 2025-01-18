@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student (Class of 2021) at the School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT), expected to graduate in June 2025, under the supervision of Prof. Guo'ai Xu. My research interests primarily focus on leveraging AI technologies to address security and privacy issues in software engineering. During my PhD, I have published 3 CCF A papers, which improve Android malware detection by utilizing DNN uncertainty at the data layer ([MalCleanse]([https://dl.acm.org/doi/abs/10.1145/3597503.3639122])), model training layer ([MalTutor]([https://github.com/academicpages/academicpages.github.io](https://dl.acm.org/doi/abs/10.1145/3597503.3639122))), and inference layer ([MalCertain]([https://github.com/academicpages/academicpages.github.io](https://dl.acm.org/doi/abs/10.1145/3597503.3639122))). Currently, I am exploring the security challenges of large language models (LLMs) and how LLMs can be applied to solve security problems.  
+I am a PhD student (Class of 2021) at the School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT), expected to graduate in June 2025, under the supervision of Prof. Guo'ai Xu. My research interests primarily focus on leveraging AI technologies to address security and privacy issues in software engineering. During my PhD, I have published 3 CCF A papers, which improve Android malware detection by utilizing DNN uncertainty at the data layer ([MalCleanse]([https://dl.acm.org/doi/abs/10.1145/3597503.3639122])), model training layer ([MalTutor]([https://github.com/academicpages/academicpages.github.io](https://dl.acm.org/doi/abs/10.1145/3597503.3639122))), and inference layer ([MalCertain]([https://github.com/academicpages/academicpages.github.io](https://dl.acm.org/doi/abs/10.1145/3597503.3639122))). Currently, I am exploring the security challenges of LLMs and how LLMs can be applied to solve security problems.  
 
 Publications
 ======
@@ -28,4 +28,4 @@ LLM + Security
 ------
 - __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__ <br>
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
-  [link]([https://arxiv.org/abs/2401.00676])
+  [link](https://arxiv.org/abs/2401.00676)
