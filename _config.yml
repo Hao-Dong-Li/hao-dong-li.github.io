@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HAODONG LI"
+title                    : "HAODONG LI/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Haodong Li/Personal Homepage"
+name                     : &name "Haodong Li"
 description              : &description "I am a Ph.D. candidate at BUPT."
 url                      : https://hao-dong-li.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
