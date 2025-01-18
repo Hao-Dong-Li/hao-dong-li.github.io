@@ -15,13 +15,13 @@ Publications
 Uncertainty + Android Malware Detection
 ------
 - __MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty.__ <br>
-  __Haodong Li__, Guosheng Xu(&), Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang(&). <br>
+  __Haodong Li__, Guosheng Xu(<sub>&</sub>), Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang(<sub>&</sub>). <br>
   Proceedings of 44th International Conference on Software Engineering (ICSE), 2024.
 - __Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.__  <br>
-  __Haodong Li(\*)__, Cheng Xiao(\*), Guohan Zhang(&), Guosheng Xu, Guoai Xu, and Haoyu Wang(&). <br>
+  __Haodong Li(\*)__, Cheng Xiao(\*), Guohan Zhang(<sub>&</sub>), Guosheng Xu, Guoai Xu, and Haoyu Wang(<sub>&</sub>). <br>
   FSE 2025
 - __Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection.__  <br>
-  __Haodong Li__, Cheng Xiao(&), Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang(&). <br>
+  __Haodong Li__, Cheng Xiao(<sub>&</sub>), Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang(<sub>&</sub>). <br>
   ISSTA 2025
 
 LLM + Security
