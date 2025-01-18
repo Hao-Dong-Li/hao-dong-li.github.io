@@ -9,6 +9,15 @@ redirect_from:
 
 I am a Ph.D. candidate (Class of 2021) at the School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT), expected to graduate in June 2025, under the supervision of Prof. Guo'ai Xu. My research interests primarily focus on leveraging AI technologies to address security and privacy issues in software engineering. During my PhD, I have published 3 CCF A papers, which improve Android malware detection by utilizing DNN uncertainty at the data layer ([MalCleanse](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)), model training layer ([MalTutor](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)), and inference layer ([MalCertain](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)). Currently, I am exploring the security challenges of LLMs and how LLMs can be applied to solve security problems.  
 
+
+Education
+======
+
+| Degree            | Institution                                              | Major               | Duration        |
+|-------------------|----------------------------------------------------------|---------------------|-----------------|
+| Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | 2015.9 - 2019.6     |
+| Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020.9 - 2025.6 (Expected) |
+
 Publications
 ======
 
@@ -30,18 +39,6 @@ LLM + Security and Privacy
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
-
-
-
-
-
-Education
-======
-
-| Degree            | Institution                                              | Major               | Duration        |
-|-------------------|----------------------------------------------------------|---------------------|-----------------|
-| Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | 2015 - 2019     |
-| Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020 - 2025 (Expected) |
 
 
 
