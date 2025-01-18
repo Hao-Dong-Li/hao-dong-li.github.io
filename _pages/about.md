@@ -16,28 +16,24 @@ Uncertainty + Android Malware Detection
 ------
 - __MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty.__ <br>
   __Haodong Li__, Guosheng Xu<sub>(&)</sub>, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
-  ICSE 2024.
+  ICSE 2024. [MalCertain](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
 - __Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.__  <br>
   __Haodong Li<sub>(\*)</sub>__, Cheng Xiao<sub>(\*)</sub>, Guohan Zhang<sub>(&)</sub>, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
-  FSE 2025
+  FSE 2025 [MalCleanse](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
 - __Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection.__  <br>
   __Haodong Li__, Cheng Xiao<sub>(&)</sub>, Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
-  ISSTA 2025
+  ISSTA 2025 [MalTutor](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
 
 LLM + Security and Privacy
 ------
 - __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__ <br>
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
-  *arXiv* [link](https://arxiv.org/abs/2401.00676)
+  *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
 
 Curriculum Vitae
 ======
 
-English Version
-------
-[pdfurl](http://academicpages.github.io/files/paper1.pdf)
+[English Version](http://academicpages.github.io/files/paper1.pdf)
 
-Chinese Version
-------
-[pdfurl](https://hao-dong-li.github.io/files/chinese-20250115.pdf)
+[Chinese Version](https://hao-dong-li.github.io/files/chinese-20250115.pdf)
