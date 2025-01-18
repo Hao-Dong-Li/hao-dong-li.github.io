@@ -15,7 +15,9 @@ Publications
 Uncertainty + Android Malware Detection
 ------
 - __MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty__
-  *Haodong Li*, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang.
+
+  *Haodong Li*, Guosheng Xu*, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang*.
+
   Proceedings of 44th International Conference on Software Engineering (ICSE), 2024.
 - bbbbbbbbbb
 - cccccccccc
