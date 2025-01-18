@@ -24,7 +24,7 @@ Uncertainty + Android Malware Detection
   __Haodong Li__, Cheng Xiao<sub>(&)</sub>, Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   ISSTA 2025
 
-LLM + Security
+LLM + Security and Privacy
 ------
 - __Digger: Detecting Copyright Content Mis-usage in Large Language Model Training.__ <br>
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
