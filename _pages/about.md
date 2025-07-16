@@ -49,5 +49,5 @@ Honors & Awards
 
 Services
 ======
-- Artifact Evaluation Committee of ISSRE 2026
+- PC member (Artifact Evaluation Track) of ISSRE 2025.
 
