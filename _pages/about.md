@@ -49,5 +49,5 @@ Honors & Awards
 
 Services
 ======
-- PC member (Artifact Evaluation Track) of ISSRE 2025.
+- PC Member (Artifact Evaluation Track), IEEE ISSRE 2025.
 
