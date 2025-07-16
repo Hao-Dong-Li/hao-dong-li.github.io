@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "HAODONG LI/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haodong Li"
-description              : &description "I am a Ph.D. candidate at BUPT."
+description              : &description "I am a postdoctoral researcher at HUST."
 url                      : https://hao-dong-li.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hao-Dong-Li/hao-dong-li.github.io"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "haodong.png"
   name             : "Haodong Li"
-  bio              : "I am a Ph.D. candidate at BUPT."
-  location         : "Beijing, China"
-  employer         : "BUPT"
+  bio              : "I am a postdoctoral researcher at HUST."
+  location         : "Wuhan, China"
+  employer         : "HSUT"
   email            : lihaodong1029@126.com 
 
   # Academic websites
