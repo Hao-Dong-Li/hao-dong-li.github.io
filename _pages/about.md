@@ -17,7 +17,7 @@ Education
 | Degree            | Institution                                              | Major               | Duration        |
 |-------------------|----------------------------------------------------------|---------------------|-----------------|
 | Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | 2015.9 - 2019.6     |
-| Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020.9 - 2025.6 (Expected) |
+| Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity        | 2020.9 - 2025.6 |
 
 
 
@@ -42,5 +42,7 @@ LLM + Security and Privacy
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
-
+Honors & Awards
+======
+- [2025] First Class Academic Scholarship for PhD Students, BUPT
 
