@@ -44,6 +44,6 @@ LLM + Security and Privacy
 
 Honors & Awards
 ======
-- __[2025] Outstanding Doctoral Dissertation Award of BUPT
-- __[2024] First Class Academic Scholarship for PhD Students, BUPT
+- __[2025]__ Outstanding Doctoral Dissertation Award of BUPT
+- __[2024]__ First Class Academic Scholarship for PhD Students, BUPT
 
