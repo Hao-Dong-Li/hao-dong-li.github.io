@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at the School of Cyberspace Security, Huazhong University of Science and Technology (HUST), working under the joint supervision of Prof. Deqing Zou and Prof. Haoyu Wang. I received my Ph.D. in Cyberspace Security from the School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT) in June 2025, where I was advised by Prof. Guo'ai Xu. My research interests primarily focus on leveraging AI technologies to address security and privacy issues in software engineering. During my PhD, I have published 3 CCF A papers, which improve Android malware detection by utilizing DNN uncertainty at the data layer ([MalCleanse](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)), model training layer ([MalTutor](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)), and inference layer ([MalCertain](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)). Currently, I am exploring the security challenges of LLMs and how LLMs can be applied to solve security problems.  
+I am currently a postdoctoral researcher at the School of Cyberspace Security, Huazhong University of Science and Technology (HUST), working under the joint supervision of Prof. Deqing Zou and Prof. Haoyu Wang. I received my Ph.D. in Cyberspace Security from the School of Cyberspace Security, Beijing University of Posts and Telecommunications (BUPT) in June 2025, where I was advised by Prof. Guo'ai Xu. My research interests primarily focus on leveraging AI technologies to address security and privacy issues in software engineering. During my PhD, I have published 3 CCF A papers, which improve Android malware detection by utilizing DNN uncertainty at the data layer ([MalCleanse](https://dl.acm.org/doi/abs/10.1145/3715769)), model training layer ([MalTutor](https://dl.acm.org/doi/abs/10.1145/3728884)), and inference layer ([MalCertain](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)). Currently, I am exploring the security challenges of LLMs and how LLMs can be applied to solve security problems.  
 
 
 Education
@@ -28,10 +28,10 @@ Uncertainty + Android Malware Detection
 ------
 - __Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.__  <br>
   __Haodong Li<sub>(\*)</sub>__, Cheng Xiao<sub>(\*)</sub>, Guohan Zhang<sub>(&)</sub>, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
-  FSE 2025 [MalCleanse](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
+  FSE 2025 [MalCleanse](https://dl.acm.org/doi/abs/10.1145/3715769)
 - __Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection.__  <br>
   __Haodong Li__, Cheng Xiao<sub>(&)</sub>, Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
-  ISSTA 2025 [MalTutor](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
+  ISSTA 2025 [MalTutor](https://dl.acm.org/doi/abs/10.1145/3728884)
 - __MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty.__ <br>
   __Haodong Li__, Guosheng Xu<sub>(&)</sub>, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   ICSE 2024. [MalCertain](https://dl.acm.org/doi/abs/10.1145/3597503.3639122)
