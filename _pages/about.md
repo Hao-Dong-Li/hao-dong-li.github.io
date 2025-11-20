@@ -42,6 +42,10 @@ LLM + Security and Privacy
   __Haodong Li__, Gelei Deng, Yi Liu, Kailong Wang, Yuekang Li, Tianwei Zhang, Yang Liu, Guoai Xu, Guosheng Xu, Haoyu Wang. <br>
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
+  - __As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files.__ <br>
+  __Haodong Li__, Jingqi Zhang, Xiao Cheng, Peihua Mai, Haoyu Wang, Yang Pan. <br>
+  *arXiv* [CopyCheck](https://arxiv.org/abs/2511.15192)
+
 Honors & Awards
 ======
 - __[2025]__ Outstanding Doctoral Dissertation Award of BUPT
