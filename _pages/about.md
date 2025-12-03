@@ -16,7 +16,7 @@ Education
 
 | Degree            | Institution                                              | Major               | Duration        |
 |-------------------|----------------------------------------------------------|---------------------|-----------------|
-| Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | Sep. 2015 – Jun. 2019 |
+| Bachelor's        | North China Electric Power University (Beijing), School of Control and Computer Science | Information Security | Sep. 2016 – Jun. 2020 |
 | Master's & PhD (combined) | Beijing University of Posts and Telecommunications, School of Cyberspace Security | Cybersecurity      | Sep. 2020 – Jun. 2025 |
 
 
