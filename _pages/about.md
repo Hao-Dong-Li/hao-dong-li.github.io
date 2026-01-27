@@ -47,7 +47,7 @@ LLM + Security and Privacy
   *arXiv* [CopyCheck](https://arxiv.org/abs/2511.15192)
 
 
-  - __Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis.__ <br>
+- __Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis.__ <br>
   Hongzhou Rao, Zikan Dong, Yanjie Zhao, __Haodong Li__, Haoyu Wang. <br>
   ICSE 2026
 
