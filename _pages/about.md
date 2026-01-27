@@ -46,6 +46,11 @@ LLM + Security and Privacy
   __Haodong Li__, Jingqi Zhang, Xiao Cheng, Peihua Mai, Haoyu Wang, Yang Pan. <br>
   *arXiv* [CopyCheck](https://arxiv.org/abs/2511.15192)
 
+
+  - __Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis.__ <br>
+  Hongzhou Rao, Zikan Dong, Yanjie Zhao, __Haodong Li__, Haoyu Wang. <br>
+  ICSE 2026
+
 Honors & Awards
 ======
 - __[2025]__ Outstanding Doctoral Dissertation Award of BUPT
