@@ -43,7 +43,7 @@ LLM + Security and Privacy
   *arXiv* [Digger](https://arxiv.org/abs/2401.00676)
 
 - __As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files.__ <br>
-  __Haodong Li__, Jingqi Zhang, Xiao Cheng, Peihua Mai, Haoyu Wang, Yang Pan. <br>
+  __Haodong Li__, Jingqi Zhang, Xiao Cheng, Peihua Mai, Haoyu Wang, Yan Pang. <br>
   *arXiv* [CopyCheck](https://arxiv.org/abs/2511.15192)
 
 
@@ -58,7 +58,8 @@ Honors & Awards
 
 Services
 ======
-- PC Member (Artifact Evaluation Track), S&P 2026.
+- PC Member (Artifact Evaluation Track), IEEE S&P 2025.
 - PC Member (Artifact Evaluation Track), IEEE ISSRE 2025.
 - Reviewer for ACM Transactions on Software Engineering and Methodology (TOSEM), 2025
+- - PC Member (Artifact Evaluation Track), IEEE S&P 2026.
 
