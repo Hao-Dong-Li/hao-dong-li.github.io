@@ -26,6 +26,9 @@ Publications
 
 Uncertainty + Android Malware Detection
 ------
+- __Towards Improved DNN-Based Android Malware Detection via Uncertainty Estimation.__  <br>
+  __Haodong Li<sub>(\*)</sub>__, Cheng Xiao<sub>(&)</sub>,  Liu Wang, and Haoyu Wang<sub>(&)</sub>. <br>
+  TOSEM 2026 
 - __Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.__  <br>
   __Haodong Li<sub>(\*)</sub>__, Cheng Xiao<sub>(\*)</sub>, Guohan Zhang<sub>(&)</sub>, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   FSE 2025 [MalCleanse](https://dl.acm.org/doi/abs/10.1145/3715769)
