@@ -37,7 +37,7 @@ Uncertainty + Android Malware Detection
   ISSTA 2025 [MalTutor](https://dl.acm.org/doi/abs/10.1145/3728884)
 - __Towards Improved DNN-Based Android Malware Detection via Uncertainty Estimation.__  <br>
   __Haodong Li__, Cheng Xiao<sub>(&)</sub>,  Liu Wang, and Haoyu Wang<sub>(&)</sub>. <br>
-  TOSEM 2026 
+  [TOSEM 2026 ](https://dl.acm.org/doi/abs/10.1145/3807456)
 
 LLM + Security and Privacy
 ------
