@@ -54,7 +54,7 @@ LLM + Security and Privacy
   Hongzhou Rao, Zikan Dong, Yanjie Zhao, __Haodong Li__, Haoyu Wang. <br>
   ICSE 2026
 
-  - __Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.__ <br>
+- __Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.__ <br>
   __Haodong Li__,Xiao Cheng,  Xudong Wang, Zhihao Guo, and Haoyu Wang<sub>(&)</sub>. <br>
   ASE 2026
 
