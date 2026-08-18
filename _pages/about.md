@@ -36,7 +36,7 @@ Uncertainty + Android Malware Detection
   __Haodong Li__, Xiao Cheng <sub>(&)</sub>, Yanjie Zhao, Guosheng Xu, Guoai Xu, and Haoyu Wang<sub>(&)</sub>. <br>
   ISSTA 2025 [MalTutor](https://dl.acm.org/doi/abs/10.1145/3728884)
 - __Towards Improved DNN-Based Android Malware Detection via Uncertainty Estimation.__  <br>
-  __Haodong Li__,Xiao Cheng <sub>(&)</sub>,  Liu Wang, and Haoyu Wang<sub>(&)</sub>. <br>
+  __Haodong Li__, Xiao Cheng <sub>(&)</sub>,  Liu Wang, and Haoyu Wang<sub>(&)</sub>. <br>
   [TOSEM 2026 ](https://dl.acm.org/doi/abs/10.1145/3807456)
 
 LLM + Security and Privacy
@@ -55,7 +55,7 @@ LLM + Security and Privacy
   ICSE 2026
 
 - __Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.__ <br>
-  __Haodong Li__,Xiao Cheng,  Xudong Wang, Zhihao Guo, and Haoyu Wang<sub>(&)</sub>. <br>
+  __Haodong Li__, Xiao Cheng<sub>(&)</sub>,  Xudong Wang, Zhihao Guo, and Haoyu Wang. <br>
   ASE 2026
 
 Honors & Awards
