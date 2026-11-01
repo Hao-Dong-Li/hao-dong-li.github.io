@@ -21,7 +21,7 @@ Education
 
 
 
-Publications
+Publications （* Equal contribution; & Corresponding author）.
 ======
 
 Uncertainty + Android Malware Detection
