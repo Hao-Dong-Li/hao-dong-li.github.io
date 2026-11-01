@@ -22,7 +22,9 @@ Education
 
 
 Publications.
-Note: * denotes equal contribution; & denotes corresponding author.
+
+**Note:** * denotes equal contribution; & denotes corresponding author.
+
 ======
 
 Uncertainty + Android Malware Detection
