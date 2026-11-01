@@ -52,11 +52,15 @@ LLM + Security and Privacy
 
 - __Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis.__ <br>
   Hongzhou Rao, Zikan Dong, Yanjie Zhao, __Haodong Li__, Haoyu Wang. <br>
-  ICSE 2026
+  ICSE Industry 2026
 
 - __Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.__ <br>
   __Haodong Li__, Xiao Cheng<sub>(&)</sub>,  Xudong Wang, Zhihao Guo, and Haoyu Wang. <br>
-  ASE 2026
+  [ASE 2026](https://dl.acm.org/doi/10.1145/3832783.3837465)
+
+  - __Membership or Predictability? Characterizing Member-Likeness through Representation Engineering for Code LLM Membership Inference.__ <br>
+  Hongzhou Rao, __Haodong Li__<sub>(&)</sub>,  and Haoyu Wang. <br>
+  ICSE 2027
 
 Honors & Awards
 ======
