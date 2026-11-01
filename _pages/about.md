@@ -58,7 +58,8 @@ LLM + Security and Privacy
   __Haodong Li__, Xiao Cheng<sub>(&)</sub>,  Xudong Wang, Zhihao Guo, and Haoyu Wang. <br>
   [ASE 2026](https://dl.acm.org/doi/10.1145/3832783.3837465)
 
-  - __Membership or Predictability? Characterizing Member-Likeness through Representation Engineering for Code LLM Membership Inference.__ <br>
+
+- __Membership or Predictability? Characterizing Member-Likeness through Representation Engineering for Code LLM Membership Inference.__ <br>
   Hongzhou Rao, __Haodong Li__<sub>(&)</sub>,  and Haoyu Wang. <br>
   ICSE 2027
 
