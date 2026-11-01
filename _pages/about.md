@@ -60,7 +60,7 @@ LLM + Security and Privacy
 
 
 - __Membership or Predictability? Characterizing Member-Likeness through Representation Engineering for Code LLM Membership Inference.__ <br>
-  Hongzhou Rao, __Haodong Li__<sub>(&)</sub>,  and Haoyu Wang. <br>
+  Hongzhou Rao, __Haodong Li__<sub>(&)</sub>, Xiao Cheng,  and Haoyu Wang. <br>
   ICSE 2027
 
 Honors & Awards
