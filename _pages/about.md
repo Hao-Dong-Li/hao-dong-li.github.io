@@ -56,7 +56,7 @@ LLM + Security and Privacy
 
 - __Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis.__ <br>
   Hongzhou Rao, Zikan Dong, Yanjie Zhao, __Haodong Li__, Haoyu Wang. <br>
-  ICSE Industry 2026
+  [ICSE Industry 2026](https://dl.acm.org/doi/10.1145/3774748.3793624)
 
 - __Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.__ <br>
   __Haodong Li__, Xiao Cheng<sub>(&)</sub>,  Xudong Wang, Zhihao Guo, and Haoyu Wang. <br>
@@ -78,4 +78,5 @@ Services
 - PC Member (Artifact Evaluation Track), IEEE ISSRE 2025.
 - Reviewer for ACM Transactions on Software Engineering and Methodology (TOSEM), 2025
 - PC Member (Artifact Evaluation Track), IEEE S&P 2026.
+- Reviewer (Research Track), The ACM Web Conference (WWW 2027).
 
